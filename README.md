@@ -1,1 +1,1 @@
-# Cypress_Basico
+# Projeto criado para práticas durante estudo.
