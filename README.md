@@ -1,2 +1,2 @@
 # 
-Projeto criado para práticas durante estudo.
+Projeto criado para praticar durante estudo.
